@@ -168,6 +168,7 @@
 				TargetAttributes = {
 					928E7DE81B18757400CAD78D = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = S93S44H6YW;
 					};
 					928E7E011B18757400CAD78D = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -347,6 +348,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Denis  Shalagin (D3Q3Q84N3K)";
 				INFOPLIST_FILE = test_ci/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -357,6 +359,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Denis  Shalagin (D3Q3Q84N3K)";
 				INFOPLIST_FILE = test_ci/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -416,6 +419,7 @@
 				928E7E0E1B18757400CAD78D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		928E7E0F1B18757400CAD78D /* Build configuration list for PBXNativeTarget "test_ciTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +428,7 @@
 				928E7E111B18757400CAD78D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
