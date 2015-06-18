@@ -20,8 +20,6 @@
     [[BITHockeyManager sharedHockeyManager] configureWithIdentifier:@"03e37e8d799afa9fec7e95818798269b"];
     [[BITHockeyManager sharedHockeyManager] startManager];
     [[BITHockeyManager sharedHockeyManager].authenticator authenticateInstallation];
-
-	// qqq
 	
 	// test build on commit
     
