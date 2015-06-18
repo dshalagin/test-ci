@@ -21,6 +21,8 @@
     [[BITHockeyManager sharedHockeyManager] startManager];
     [[BITHockeyManager sharedHockeyManager].authenticator authenticateInstallation];
 
+	// qqq
+	
 	// test build on commit
     
     // Override point for customization after application launch.
