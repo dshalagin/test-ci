@@ -21,8 +21,6 @@
     [[BITHockeyManager sharedHockeyManager] startManager];
     [[BITHockeyManager sharedHockeyManager].authenticator authenticateInstallation];
 	
-	//test
-	
     // Override point for customization after application launch.
     return YES;
 }
